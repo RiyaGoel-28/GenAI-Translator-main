@@ -27,7 +27,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/itsmohitkumar/GenAI-Translator.git
+    git clone https://github.com/RiyaGoel-28/GenAI-Translator-main.git
     cd GenAI-Translator
     ```
 
